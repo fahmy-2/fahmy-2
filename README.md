@@ -1,51 +1,65 @@
 ## Hey 👋, I'm Fahmy Naim!
 
-<a href='https://www.linkedin.com/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
-<br/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right"/>
 
 ### 👨‍💻 About Me:
 
-- 💻 Full Stack Developer  
-- 🚀 I build web applications from frontend to backend  
-- 🧠 Strong problem solving skills (especially in C++)  
-- 🌱 Currently learning advanced backend & system design  
-- 🔥 Passionate about clean code and performance  
+* 💻 Full Stack .NET Developer
+* 🚀 I build scalable web applications using ASP.NET Core
+* 🧠 Strong problem solving (C++)
+* 🌱 Learning advanced backend & system design
+* 🔥 Love clean architecture & performance
 
 ---
 
 ### 🛠️ Tech Stack:
 
-- 💻 Frontend: HTML, CSS, JavaScript, React  
-- ⚙️ Backend: Node.js, Express  
-- 🗄️ Database: MySQL, SQL Server  
-- 🔧 Tools: Git, GitHub  
-- 🧠 Programming: C++, JavaScript  
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js,sqlserver" />
+</p>
+
+---
+
+### 🚀 .NET Skills:
+
+* 🔹 ASP.NET Core MVC
+* 🔹 Web API
+* 🔹 Entity Framework Core
+* 🔹 LINQ
+* 🔹 Authentication & Authorization
 
 ---
 
 ### 📊 GitHub Stats:
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🚀 Projects:
 
-- 🔹 Project 1 - (add your project link)  
-- 🔹 Project 2 - (add your project link)  
-- 🔹 Project 3 - (add your project link)  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+* 🔹 E-Commerce Web App (.NET)
+* 🔹 Student Management System
+* 🔹 REST API Project
 
 ---
 
 ### 📫 Contact Me:
 
-- 💼 LinkedIn: (put your link)
-- 📧 Email: (put your email)
+<p>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
 ### ⚡ Fun Fact:
-I love coding, solving problems, and learning new technologies every day 🚀
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+
+I love coding, coffee ☕ and building cool backend systems 🚀
