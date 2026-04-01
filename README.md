@@ -1,4 +1,4 @@
-## Hey 👋, I'm Fahmy Naim!
+## Hey 👋, I'm Fahmy Naeem!
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right"/>
 
